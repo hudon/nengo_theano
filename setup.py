@@ -28,5 +28,6 @@ setup(
     requires=[
         "theano",
         "numpy (>=1.5.0)",
+        "quantities",
     ],
 )
